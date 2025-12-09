@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+	font-family: all;
+}
+
+#nike{
+	width: 20rem;
+	height: 190px;
+}
+
+#error{
+	color: red;
+}
+
+#operation{
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
