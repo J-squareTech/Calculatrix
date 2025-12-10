@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body{
 	text-align: center;
 	font-family: all;
@@ -16,23 +16,4 @@ body{
 #operation{
 	
 	padding-top: 20px;
-=======
-body{
-	text-align: center;
-	font-family: all;
-}
-
-#nike{
-	width: 20rem;
-	height: 190px;
-}
-
-#error{
-	color: red;
-}
-
-#operation{
-	padding-bottom: 30px;
-	padding-top: 20px;
->>>>>>> de28b6800a978ba1720e1c5b8c4964fda01fc501
 }
